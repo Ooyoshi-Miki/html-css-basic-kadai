@@ -39,8 +39,6 @@
 #middle-child02 {
   width: 200px;
   height: 200px;
-  /* 配置を中央にする */
-  text-align: center;
   background-color: #87ceeb;
   /* 配置を指定 */
   position: absolute;
